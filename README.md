@@ -33,5 +33,10 @@ Even today, static shellcode encoding techniques can slip past real-world EDR. T
 
 ## 🔍 Example Usage
 
-```bash
-python obfuscator.py
+Replace the `original_shellcode` list with your own payload, then run all the notebook cells.
+
+The obfuscated shellcode will appear in **Cell #10**.  
+To use it, you’ll need to copy the corresponding decryption routine (see final cell), or implement your own in the language of your choice.
+
+This project is intended for educational and research purposes only.
+
